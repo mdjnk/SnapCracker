@@ -11,7 +11,9 @@ counter4=60
 counter5=80
 start=0
 end=20
-turn=$((start+end))
+turn=$((start+end))Crack Password"
+brute force attack.
+nillssonida
 startline=1
 endline=20
 sumstart=0
@@ -597,4 +599,11 @@ killall -HUP tor
 #pkill -f -HUP "tor -f multitor/multitor1"; pkill -f -HUP "tor -f multitor/multitor2"; pkill -f -HUP "tor -f multitor/multitor3"; pkill -f -HUP "tor -f multitor/multitor4"; pkill -f -HUP "tor -f multitor/multitor5"
 done
 exit 1
-esac
+esacha
+
+http_code
+default_session
+nDataDirectory
+nillssonida
+google
+Alt_Gr    
